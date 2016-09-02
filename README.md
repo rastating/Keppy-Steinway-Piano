@@ -7,7 +7,7 @@ Are you tired of being forced to pay incredible amounts of money, just for a pia
 Do you want to just play standard MIDI files with good piano samples?
 <br>
 Well, this is the right project for you!
-<br>
+<br><br>
 Welcome to the Keppy's Steinway Piano project page on GitHub, where you can download one of the best free piano soundfonts on the Internet!
 
 ## Main features
