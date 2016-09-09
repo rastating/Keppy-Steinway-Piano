@@ -1,3 +1,7 @@
+Changelog 5.3: (September 9, 2016)
+- Updated presets. ~ Keppy
+- Changed IDv3 metatags. ~ Keppy
+-----------------------------------------------------------------------------------
 Changelog 5.2: (July 26, 2016)
 - Reduced sinc interpolation from 512-point to 128-point. ~ Keppy
 - Increased audio frequency from 44100Hz to 48000Hz (To compensate the sinc interpolation change). ~ Keppy
