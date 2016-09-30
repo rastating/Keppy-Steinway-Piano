@@ -4,6 +4,11 @@
 # Keppy Steinway Piano: The most realistic soundfont, for free
 The project has been moved to GitHub, since Keppy Studios has been closed.
 
+## Next update
+Keppy Steinway Piano will be updated to version **5.4** in between *October-December*.
+<br>
+It's not confirmed thought, so keep the hype down. (In case you have it, but I don't think this project is worth it.)
+
 ## Description
 Are you tired of being forced to pay incredible amounts of money, just for a piano VST?
 <br>
@@ -26,6 +31,11 @@ Welcome to the Keppy's Steinway Piano project page on GitHub, where you can down
 3. If you want to publish it on your website, you can embed the page through an IFRAME tag or by inserting a direct link to this page. Never use direct download links. NEVER.
 4. You are allowed to add effects to the rendered audio (Ex. Rendering audio through SynthFont2 and then adding multiple effects through FL Studio), but you're not allowed to come to the point where the effects cover the original sound.
 5. Don't implement these samples in your personal soundfonts.
+
+## Isn't this owned by Frozen Snow Productions, since it merged with Keppy Studios?
+I decided to keep Keppy's Steinway Piano as a standalone project.
+<br>
+It has nothing to do with Frozen Snow Production neither with Keppy Studios now.
 
 ## Why is it on GitHub?
 As I said before, Keppy Studios has been closed, but I didn't want to kill this project.
