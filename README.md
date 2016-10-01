@@ -4,11 +4,6 @@
 # Keppy Steinway Piano: The most realistic soundfont, for free
 The project has been moved to GitHub, since Keppy Studios has been closed.
 
-## Next update
-Keppy Steinway Piano will be updated to version **5.4** in between *October-December*.
-<br>
-It's not confirmed thought, so keep the hype down. (In case you have it, but I don't think this project is worth it.)
-
 ## Description
 Are you tired of being forced to pay incredible amounts of money, just for a piano VST?
 <br>
