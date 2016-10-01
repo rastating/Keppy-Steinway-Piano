@@ -1,8 +1,0 @@
-The best depends on what you want, I would choose the normal concert grand and the realistic one, with or without reverb.
-The High-pass and Low-pass filter ones are not really useful for live playback and may not be supported by BASSMIDI and Synthfont.
-If you are deciding to play a sad song, choose one of the deep presets. 
-If you're wanting ultra realism, go for the keppy edition. This has almost no effects applied and thus uses the original sound.
-
-And that's it for now :P
-
-~ Frozen Snow

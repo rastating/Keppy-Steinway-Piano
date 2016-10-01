@@ -1,3 +1,8 @@
+Changelog 6.0: (October 1, 2016)
+- Updated presets. ~ Keppy
+- Moved old presets to "Legacy" folder. ~ Keppy
+- Now the soundfont is at the same level as professional VSTs. ~ Keppy
+-----------------------------------------------------------------------------------
 Changelog 5.3: (September 9, 2016)
 - Updated presets. ~ Keppy
 - Changed IDv3 metatags. ~ Keppy
