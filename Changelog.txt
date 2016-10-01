@@ -1,3 +1,7 @@
+Changelog 6.01: (October 1, 2016)
+- Updated presets with hammers. ~ Keppy
+- Added presets with stronger hammers. ~ Keppy
+-----------------------------------------------------------------------------------
 Changelog 6.0: (October 1, 2016)
 - Updated presets. ~ Keppy
 - Moved old presets to "Legacy" folder. ~ Keppy

@@ -9,7 +9,7 @@ default_path=..\..\..\Samples\CnrtGrnd\
 
 // Hammers 0
 <group>
-volume=-40.000
+volume=-25.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -285,7 +285,7 @@ ampeg_release=0.305
 
 // Hammers 1
 <group>
-volume=-40.000
+volume=-25.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -385,7 +385,7 @@ ampeg_release=0.305
 
 // Hammers 2
 <group>
-volume=-40.000
+volume=-25.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -460,7 +460,7 @@ ampeg_release=0.305
 
 // Hammers 3
 <group>
-volume=-40.000
+volume=-25.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -510,7 +510,7 @@ ampeg_release=0.305
 
 // Hammers 4
 <group>
-volume=-40.000
+volume=-25.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -550,7 +550,7 @@ ampeg_release=0.305
 
 // Hammers 4
 <group>
-volume=-40.000
+volume=-25.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5

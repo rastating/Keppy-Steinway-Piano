@@ -9,7 +9,7 @@ default_path=..\..\..\Samples\CnrtGrnd\
 
 // Hammers 0
 <group>
-volume=-25.000
+volume=-16.450
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -285,7 +285,7 @@ ampeg_release=0.305
 
 // Hammers 1
 <group>
-volume=-25.000
+volume=-16.450
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -385,7 +385,7 @@ ampeg_release=0.305
 
 // Hammers 2
 <group>
-volume=-25.000
+volume=-16.450
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -460,7 +460,7 @@ ampeg_release=0.305
 
 // Hammers 3
 <group>
-volume=-25.000
+volume=-16.450
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -510,7 +510,7 @@ ampeg_release=0.305
 
 // Hammers 4
 <group>
-volume=-25.000
+volume=-16.450
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -550,7 +550,7 @@ ampeg_release=0.305
 
 // Hammers 4
 <group>
-volume=-25.000
+volume=-16.450
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -753,7 +753,7 @@ ampeg_release=0.305
 lovel=0 hivel=12
 fil_type=lpf_2p
 fil_veltrack=9600
-cutoff=10
+cutoff=20
 ampeg_sustain=100
 pitchlfo_freq=2.550
 fillfo_freq=3.162
@@ -1444,7 +1444,7 @@ ampeg_release=1.120
 lovel=12 hivel=20
 fil_type=lpf_2p
 fil_veltrack=9600
-cutoff=15
+cutoff=28
 ampeg_sustain=100
 pitchlfo_freq=2.550
 fillfo_freq=3.162
@@ -2135,7 +2135,7 @@ ampeg_release=1.120
 lovel=21 hivel=37
 fil_type=lpf_2p
 fil_veltrack=9600
-cutoff=19
+cutoff=38
 ampeg_sustain=100
 pitchlfo_freq=2.550
 fillfo_freq=3.162
@@ -2826,7 +2826,7 @@ ampeg_release=1.120
 lovel=38 hivel=49
 fil_type=lpf_2p
 fil_veltrack=9600
-cutoff=24
+cutoff=49
 ampeg_sustain=100
 pitchlfo_freq=2.550
 fillfo_freq=3.162
@@ -3517,7 +3517,7 @@ ampeg_release=1.120
 lovel=50 hivel=63
 fil_type=lpf_2p
 fil_veltrack=9600
-cutoff=30
+cutoff=55
 ampeg_sustain=100
 pitchlfo_freq=2.550
 fillfo_freq=3.162
@@ -4208,7 +4208,7 @@ ampeg_release=1.120
 lovel=64 hivel=80
 fil_type=lpf_2p
 fil_veltrack=9600
-cutoff=49
+cutoff=68
 ampeg_sustain=100
 pitchlfo_freq=2.550
 fillfo_freq=3.162
@@ -4899,7 +4899,7 @@ ampeg_release=1.273
 lovel=81 hivel=85
 fil_type=lpf_2p
 fil_veltrack=9600
-cutoff=71
+cutoff=80
 ampeg_sustain=100
 pitchlfo_freq=2.550
 fillfo_freq=3.162
@@ -5590,7 +5590,7 @@ ampeg_release=1.273
 lovel=86 hivel=98
 fil_type=lpf_2p
 fil_veltrack=9600
-cutoff=86
+cutoff=93
 ampeg_sustain=100
 pitchlfo_freq=2.550
 fillfo_freq=3.162
@@ -6281,7 +6281,7 @@ ampeg_release=1.273
 lovel=99 hivel=105
 fil_type=lpf_2p
 fil_veltrack=9600
-cutoff=100
+cutoff=108
 ampeg_sustain=100
 pitchlfo_freq=2.550
 fillfo_freq=3.162
