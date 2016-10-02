@@ -13,7 +13,7 @@ default_path=..\..\Samples\CnrtGrnd\
 // Hammers 1
 <group>
 lovel=0 hivel=35
-volume=-20.000
+volume=-18.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -290,7 +290,7 @@ ampeg_release=0.305
 // Hammers 2
 <group>
 lovel=36 hivel=60
-volume=-19.250
+volume=-17.250
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -567,7 +567,7 @@ ampeg_release=0.305
 // Hammers 3
 <group>
 lovel=61 hivel=86
-volume=-18.450
+volume=-16.450
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -844,7 +844,7 @@ ampeg_release=0.305
 // Hammers 4
 <group>
 lovel=87 hivel=101
-volume=-17.750
+volume=-15.750
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -1121,7 +1121,7 @@ ampeg_release=0.305
 // Hammers 5
 <group>
 lovel=102 hivel=127
-volume=-17.000
+volume=-15.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -1400,7 +1400,7 @@ ampeg_release=0.305
 // Hammers 1
 <group>
 lovel=0 hivel=35
-volume=-20.000
+volume=-18.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -1501,7 +1501,7 @@ ampeg_release=0.305
 // Hammers 2
 <group>
 lovel=36 hivel=60
-volume=-19.250
+volume=-17.250
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -1602,7 +1602,7 @@ ampeg_release=0.305
 // Hammers 3
 <group>
 lovel=61 hivel=86
-volume=-18.450
+volume=-16.450
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -1703,7 +1703,7 @@ ampeg_release=0.305
 // Hammers 4
 <group>
 lovel=87 hivel=101
-volume=-17.750
+volume=-15.750
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -1804,7 +1804,7 @@ ampeg_release=0.305
 // Hammers 5
 <group>
 lovel=102 hivel=127
-volume=-17.000
+volume=-15.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -1907,7 +1907,7 @@ ampeg_release=0.305
 // Hammers 1
 <group>
 lovel=0 hivel=35
-volume=-20.000
+volume=-18.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -1948,7 +1948,7 @@ ampeg_release=0.305
 // Hammers 2
 <group>
 lovel=36 hivel=60
-volume=-19.250
+volume=-17.250
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -1989,7 +1989,7 @@ ampeg_release=0.305
 // Hammers 3
 <group>
 lovel=61 hivel=86
-volume=-18.450
+volume=-16.450
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -2030,7 +2030,7 @@ ampeg_release=0.305
 // Hammers 4
 <group>
 lovel=87 hivel=101
-volume=-17.750
+volume=-15.750
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -2071,7 +2071,7 @@ ampeg_release=0.305
 // Hammers 5
 <group>
 lovel=102 hivel=127
-volume=-17.000
+volume=-15.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -2114,7 +2114,7 @@ ampeg_release=0.305
 // Hammers 1
 <group>
 lovel=0 hivel=35
-volume=-20.000
+volume=-18.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -2315,7 +2315,7 @@ ampeg_release=0.305
 // Hammers 2
 <group>
 lovel=36 hivel=60
-volume=-19.250
+volume=-17.250
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -2516,7 +2516,7 @@ ampeg_release=0.305
 // Hammers 3
 <group>
 lovel=61 hivel=86
-volume=-18.450
+volume=-16.450
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -2717,7 +2717,7 @@ ampeg_release=0.305
 // Hammers 4
 <group>
 lovel=87 hivel=101
-volume=-17.750
+volume=-15.750
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -2918,7 +2918,7 @@ ampeg_release=0.305
 // Hammers 5
 <group>
 lovel=102 hivel=127
-volume=-17.000
+volume=-15.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5

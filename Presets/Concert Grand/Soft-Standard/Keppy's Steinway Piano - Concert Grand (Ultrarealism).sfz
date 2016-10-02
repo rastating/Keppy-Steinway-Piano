@@ -7,6 +7,8 @@
 <control>
 default_path=..\..\..\Samples\CnrtGrnd\
 
+// PSTR - BEGINNING OF THE PIANO SECTION
+
 // First velocity layer
 <group>
 lovel=0 hivel=12
@@ -7607,3 +7609,5 @@ pan=63
 key=127
 pitch_keycenter=108
 ampeg_release=1.273
+
+// PSTR - END OF THE PIANO SECTION
