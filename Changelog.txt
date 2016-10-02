@@ -1,3 +1,6 @@
+Changelog 6.03: (October 2, 2016)
+- Added presets without hammers on the low notes. ~ Keppy
+-----------------------------------------------------------------------------------
 Changelog 6.02: (October 2, 2016)
 - Updated filtering for the hammers. Now they sound more dynamic. ~ Keppy
 - Added sneaky animals. ~ Keppy
