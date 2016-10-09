@@ -1,3 +1,7 @@
+Changelog 6.10: (October 2, 2016)
+- Updated "Bright Piano" samples. ~ Keppy
+- Windows 98 is really good. ~ Keppy
+-----------------------------------------------------------------------------------
 Changelog 6.03: (October 2, 2016)
 - Added presets without hammers on the low notes. ~ Keppy
 -----------------------------------------------------------------------------------
