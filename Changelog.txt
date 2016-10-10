@@ -1,4 +1,8 @@
-Changelog 6.10: (October 2, 2016)
+Changelog 6.20: (October 10, 2016)
+- Reduced bass on the "Concert Grand". ~ Keppy
+- Made the "Bright Piano" even brighter than before. ~ Keppy
+-----------------------------------------------------------------------------------
+Changelog 6.10: (October 8, 2016)
 - Updated "Bright Piano" samples. ~ Keppy
 - Windows 98 is really good. ~ Keppy
 -----------------------------------------------------------------------------------
