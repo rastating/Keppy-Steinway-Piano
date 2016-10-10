@@ -1,17 +1,15 @@
 <div align="center"><a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.<br>Please <a href="#rules-for-the-use-of-this-project">read the rules</a> <b>BEFORE</b> using this project!!!</div>
 <div align="center"><a rel="Donate" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=prapapappo1999@gmail.com&lc=US&item_name=Donation&currency_code=USD&bn=PP-DonationsBF"><img width="25%" height="25%" src="http://www.pngall.com/wp-content/uploads/2016/05/PayPal-Donate-Button-PNG-Clipart.png"></a></div>
 
-# Keppy Steinway Piano: The most realistic soundfont, for free
+# Keppy Steinway Piano: A piano soundfont for free
 The project has been moved to GitHub, since Keppy Studios has been closed.
 
 ## Description
-Are you tired of being forced to pay incredible amounts of money, just for a piano VST?
-<br>
-Do you want to just play standard MIDI files with good piano samples?
+Do you want to just play standard MIDI files with piano samples, without having to pay for them?
 <br>
 Well, this is the right project for you!
 <br><br>
-Welcome to the Keppy's Steinway Piano project page on GitHub, where you can download one of the best free piano soundfonts on the Internet!
+Welcome to the Keppy's Steinway Piano project page on GitHub, where you can download a piano soundfont for free!
 
 ## Main features
 - Sampled from a Steinway D-274 Concert Grand!
