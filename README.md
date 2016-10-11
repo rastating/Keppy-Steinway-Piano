@@ -17,7 +17,7 @@ That was my original intent.
 <br>
 All the feedback I got through e-mails actually made me change my objective for this project... Talking with a [close friend] (https://www.youtube.com/user/gingeas) helped me realize that.
 <br>
-From the idea of "Realism --> Good sound" I switched to "Improvements by other's feedback --> Good sound", which is good.
+From the idea of "Realism --> Good sound", I switched to "Improvements by other's feedback --> Good sound", which is good.
 <br>
 But on the other hand, it's also not good at all, since it made me lose the initial objective of the project...
 <br>
