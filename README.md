@@ -11,6 +11,21 @@ Well, this is the right project for you!
 <br><br>
 Welcome to the Keppy's Steinway Piano project page on GitHub, where you can download a piano soundfont for free!
 
+## Wasn't it "realistic"?
+That was my original intent.
+<br>
+<br>
+All the feedback I got through e-mails actually made me change my objective for this project... Talking with a [close friend] (https://www.youtube.com/user/gingeas) helped me realize that.
+<br>
+From the idea of "Realism --> Good sound" I switched to "Improvements by other's feedback --> Good sound", which is good.
+<br>
+But on the other hand, it's also not good at all, since it made me lose the initial objective of the project...
+<br>
+<br>
+Things said, it's up to the user itself to find the project "Realistic" or "Artificial", I just followed my fanbase's requests.
+<br>
+So... I hope you like it. If you don't... Well, just remove it from your computer I guess.
+
 ## Main features
 - Sampled from a Steinway D-274 Concert Grand!
 - HQ samples, WAV 16bit, 128-point sinc, 1536kbps. (There are exceptions)
