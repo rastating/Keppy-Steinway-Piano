@@ -1,3 +1,5 @@
+- Updated presets, most of them were bugged. ~ Keppy
+-----------------------------------------------------------------------------------
 Changelog 6.20: (October 10, 2016)
 - Reduced bass on the "Concert Grand". ~ Keppy
 - Made the "Bright Piano" even brighter than before. ~ Keppy
