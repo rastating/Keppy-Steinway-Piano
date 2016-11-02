@@ -1,4 +1,8 @@
-- Updated presets, most of them were bugged. ~ Keppy
+Changelog 6.27: (November 3, 2016)
+- Removed "Soft-Standard" presets. ~ Keppy
+-----------------------------------------------------------------------------------
+Changelog 6.25: (November 1, 2016)
+- Reduced bass on the "Concert Grand". ~ Keppy
 -----------------------------------------------------------------------------------
 Changelog 6.20: (October 10, 2016)
 - Reduced bass on the "Concert Grand". ~ Keppy
