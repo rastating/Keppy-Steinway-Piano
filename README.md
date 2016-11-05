@@ -4,6 +4,9 @@
 # Keppy Steinway Piano: A piano soundfont for free
 The project has been moved to GitHub, since Keppy Studios has been closed.
 
+# I'm searching for a more realistic soundfont, where can I find one?
+There's Steinway B-211 for that, click here: https://github.com/KaleidonKep99/Steinway-B-211
+
 ## Description
 Do you want to just play standard MIDI files with piano samples, without having to pay for them?
 <br>
