@@ -5,7 +5,7 @@
 // ~ Keppy
 
 <control>
-default_path=..\..\..\Samples\Bright\
+default_path=.\
 
 // PSTR - BEGINNING OF THE PIANO SECTION
 
